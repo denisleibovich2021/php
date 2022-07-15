@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>hellooo Denissssssddddddddddddddsssssssssssssssssssss!</h1>
+        <h1>hellooo Denissssssddddddddddddddssssssssddddddsssssssssssss!</h1>
         <p>yourrrrr thee bestttt</p>
     </section>
 
